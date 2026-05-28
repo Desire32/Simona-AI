@@ -13,9 +13,8 @@ Upload or record audio and get a transcription tuned for **Κυπριακά**, n
 
 | | |
 |---|---|
-| **Web demo** | [elormiden-wav2vec2-cypriot-asr.hf.space](https://elormiden-wav2vec2-cypriot-asr.hf.space) |
 | **GitHub Pages** | `https://Desire32.github.io/simona-ai/` |
-| **Model** | [Elormiden/wav2vec2-cypriot-dialect](https://huggingface.co/Elormiden/wav2vec2-cypriot-dialect) |
+| **Model** | [Elormiden/Simona-AI](https://huggingface.co/Elormiden/Simona-AI) |
 
 The demo may take a minute to start if the Space has been idle.
 
