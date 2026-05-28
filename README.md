@@ -6,8 +6,8 @@ Most speech recognition tools are built for standard Modern Greek or English. **
 
 Upload or record audio and get a transcription tuned for **Κυπριακά**, not “generic” Greek.
 
-[![Try the demo](https://img.shields.io/badge/Demo-Live-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://elormiden-wav2vec2-cypriot-asr.hf.space)
-[![Model on Hugging Face](https://img.shields.io/badge/Model-Hugging%20Face-yellow?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Elormiden/wav2vec2-cypriot-dialect)
+[![Try the demo](https://img.shields.io/badge/Demo-Live-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://elormiden-simona-ai.hf.space)
+[![Model on Hugging Face](https://img.shields.io/badge/Model-Hugging%20Face-yellow?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Elormiden/Simona-AI)
 
 ## Links
 
